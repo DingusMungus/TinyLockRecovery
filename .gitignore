@@ -1,0 +1,5 @@
+/build/
+/dist/
+/venv/
+.idea/
+__pycache__/TinyLockRecovery.cpython-37.pyc
