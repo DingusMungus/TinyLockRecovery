@@ -1,0 +1,7 @@
+{
+  "name": "tinylockrecovery",
+  "version": "1.0.0",
+  "description": "Unofficial tool for unlocking your tokens",
+  "author": "dingusmungus.algo",
+  "main": "TinyLockRecovery.py"
+}
